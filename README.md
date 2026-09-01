@@ -1,3 +1,49 @@
-## Hi there 👋
+<!-- Заголовок -->
+<h1 align="center">👋 Привет! Я начинающий тестировщик</h1>
+<p align="center">
+  <b>QA Engineer | Manual & Automation Testing</b>
+</p>
+
+---
+
+## 👤 Обо мне
+
+Я начинающий специалист в области тестирования программного обеспечения. Прохожу обучение по специальности "Инженер по тестированию", активно развиваю навыки ручного и автоматизированного тестирования.
+
+### 🎯 Мои цели:
+- ✅ Освоить полный цикл тестирования веб-приложений
+- ✅ Научиться писать автотесты на Python
+- ✅ Разобраться в клиент-серверной архитектуре
+- ✅ Стать востребованным специалистом в IT
+
+---
+
+## 🛠️ Навыки и инструменты
+
+| Категория | Инструменты и технологии |
+|:---|:---|
+| **🌐 Фреймворки для автотестов** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white) |
+| **📱 Мобильное тестирование** | ![Appium](https://img.shields.io/badge/Appium-9B59B6?style=flat&logo=appium&logoColor=white) |
+| **🔌 API-тестирование** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white) |
+| **⚡ Нагрузочное тестирование** | ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white) |
+| **🐳 Контейнеризация** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **📊 Базы данных** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| **🔧 Инструменты разработчика** | ![DevTools](https://img.shields.io/badge/DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white) |
+| **📁 Система контроля версий** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+
+### 📋 Что я умею:
+
+- ✅ Проектирование тестовых сценариев, тест-дизайн
+- ✅ Ведение технической документации: чек-листы, тест-кейсы, баг-репорты
+- ✅ Анализ клиент-серверного взаимодействия
+- ✅ Планирование автоматизации тестирования
+- ✅ Тестирование API: отправка запросов, валидация ответов, интеграция в CI
+- ✅ Нагрузочное тестирование сервисов и баз данных
+- ✅ Базовое тестирование безопасности: анализ уязвимостей, защита на уровне ввода данных
+- ✅ Работа с сетевым трафиком
+- ✅ Кросс-платформенное тестирование
+- ✅ Принятие решений на основе аналитики результатов тестов
+
+---
 
 

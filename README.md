@@ -58,3 +58,6 @@
 | 6 | **Особенности тестирования веб-приложений** | [📄 Задание](https://github.com/netology-code/iqa-homeworks/tree/iqa-64/hw-10) | [📝 Решение](https://docs.google.com/document/d/1Kp4Bvw6i4fWd5VrCTitMdrVVwuQ16CogvnPxLAJX9KM/edit?tab=t.0) |
 | 7 | **Инструменты тестирования. Клиент-сервер** | [📄 Задание](https://github.com/netology-code/iqa-homeworks/tree/iqa-64/hw-13) | [📝 Решение](https://docs.google.com/document/d/1gv0wgbkMYcnO_J2milG52z4qbEUZ1jvNjLTCwV8VxCs/edit?tab=t.0#heading=h.pmv9zezarohs) |
 | 8 | **Жизненный цикл разработки ПО. Гибкие методологии разработки ПО** | [📄 Задание](https://github.com/netology-code/iqa-homeworks/tree/iqa-64/hw-14) | [📝 Решение](https://docs.google.com/document/d/1zlhE96Fg8rFVWcvBC4Hkf5FF7ERIyvUanvvnoRBB-Rk/edit?tab=t.0) |
+| 9 | **Курсовой проект по модулю «Ручное тестирование веб-приложений»** | [📄 Задание](https://github.com/netology-code/iqa-diplom) | [📝 Решение](https://docs.google.com/spreadsheets/d/1KwPEkNK5iXm2QcVcEL3-tVxtWArh0IdNGDIlMu6eNGc/edit?gid=0#gid=0) |
+
+---

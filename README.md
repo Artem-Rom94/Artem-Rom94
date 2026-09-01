@@ -52,3 +52,4 @@
 |:-:|:---|:---|:---|
 | 1 | **Введение в тестирование ПО. Методы и виды тестирования** | [📄 Задание](https://github.com/netology-code/iqa-homeworks/tree/iqa-64/hw-1) | [📝 Решение](https://docs.google.com/document/d/1DaYkXOFspnmrJViw7-oyvNvhkbqpQqZqxT5ZDNdSOYI/edit?tab=t.0) |
 | 2 | **Тестирование ПО. Тест-дизайн** | [📄 Задание](https://github.com/netology-code/iqa-homeworks/tree/iqa-64/hw-4/) | [📝 Решение](https://docs.google.com/document/d/1yGl8DcYqtpn-6X6Mob4EUjszxsaWbu-3IvtZzrq4A0A/edit?tab=t.0) |
+| 3 | **Артефакты тестирования. Тестовая документация** | [📄 Задание](https://github.com/netology-code/iqa-homeworks/tree/iqa-64/hw-6) | [📝 Решение](https://docs.google.com/spreadsheets/d/1onMJnZ7mUDVZdQyXN_Xj6DLC_I5n9L04cVovnAuPeBw/edit?gid=0#gid=0) |

@@ -47,7 +47,7 @@
 ---
 
 ## 📂 Мои работы
-### 🧪 Ручное тестирование веб-приложений
+### **🧪 Ручное тестирование веб-приложений
 | № | Название работы | Задание | Решение |
 |:-:|:---|:---|:---|
 | 1 | **Введение в тестирование ПО. Методы и виды тестирования** | [📄 Задание](https://github.com/netology-code/iqa-homeworks/tree/iqa-64/hw-1) | [📝 Решение](https://docs.google.com/document/d/1DaYkXOFspnmrJViw7-oyvNvhkbqpQqZqxT5ZDNdSOYI/edit?tab=t.0) |
@@ -61,4 +61,4 @@
 | 9 | **Курсовой проект по модулю «Ручное тестирование веб-приложений»** | [📄 Задание](https://github.com/netology-code/iqa-diplom) | [📝 Решение](https://docs.google.com/spreadsheets/d/1KwPEkNK5iXm2QcVcEL3-tVxtWArh0IdNGDIlMu6eNGc/edit?gid=0#gid=0) |
 
 ---
-🤖 Автоматизированное тестирование Python
+### **🤖 Автоматизированное тестирование Python

@@ -61,3 +61,4 @@
 | 9 | **Курсовой проект по модулю «Ручное тестирование веб-приложений»** | [📄 Задание](https://github.com/netology-code/iqa-diplom) | [📝 Решение](https://docs.google.com/spreadsheets/d/1KwPEkNK5iXm2QcVcEL3-tVxtWArh0IdNGDIlMu6eNGc/edit?gid=0#gid=0) |
 
 ---
+🤖 Автоматизированное тестирование Python

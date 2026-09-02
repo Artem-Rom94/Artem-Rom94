@@ -64,4 +64,4 @@
 ### **🤖 Автоматизированное тестирование Python**
 | № | Название работы | Задание | Решение |
 |:-:|:---|:---|:---|
-| 1 | **Тестирование API и Continuous Integration** | [📄 Задание]([https://netology.ru/profile/program/aqapy-130/lessons/605839/lesson_items/3261864])(https://docs.google.com/document/d/1KO2zbCUdo9yocxItXbHrVpX3KA7-JO35BdIbvwrvwyc/edit?tab=t.0#heading=h.bnaaz150lrdg)) | [📝 Решение](https://github.com/Artem-Rom94/postman-echo-tests) |
+| 1 | **Тестирование API и Continuous Integration** | [📄 Задание](https://docs.google.com/document/d/1KO2zbCUdo9yocxItXbHrVpX3KA7-JO35BdIbvwrvwyc/edit?tab=t.0#heading=h.bnaaz150lrdg) | [📝 Решение](https://github.com/Artem-Rom94/postman-echo-tests) |

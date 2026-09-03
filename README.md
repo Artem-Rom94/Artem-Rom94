@@ -74,8 +74,8 @@
 ---
 ### **🧩 JavaScript для тестировщиков**
 | № | Название работы | Задание | Решение |
-| 1 | **Тестирование API и Continuous Integration** | [📄 Задание](https://github.com/netology-code/aqabjs-homeworks/blob/main/First.md) | [📝 Решение](https://codepen.io/editor/Artem-Rom/pen/019f1ecb-82de-7e81-ba11-3130cb6080b3) |
-| 2 | **Тестирование API и Continuous Integration** | [📄 Задание]() | [📝 Решение]() |
-| 3 | **Тестирование API и Continuous Integration** | [📄 Задание]() | [📝 Решение]() |
-| 4 | **Тестирование API и Continuous Integration** | [📄 Задание]() | [📝 Решение]() |
-| 5 | **Тестирование API и Continuous Integration** | [📄 Задание]() | [📝 Решение]() |
+| 1 | **Домашнее задание к занятию "Знакомство с JavaScript"** | [📄 Задание](https://github.com/netology-code/aqabjs-homeworks/blob/main/First.md) | [📝 Решение](https://codepen.io/editor/Artem-Rom/pen/019f1ecb-82de-7e81-ba11-3130cb6080b3) |
+| 2 | **** | [📄 Задание]() | [📝 Решение]() |
+| 3 | **** | [📄 Задание]() | [📝 Решение]() |
+| 4 | **** | [📄 Задание]() | [📝 Решение]() |
+| 5 | **** | [📄 Задание]() | [📝 Решение]() |

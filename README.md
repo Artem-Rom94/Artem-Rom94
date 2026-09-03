@@ -80,4 +80,10 @@
 | 3 | **Функции** | [📄 Задание](https://github.com/netology-code/bjs-2-homeworks/tree/bjs-53/2.functions) | [📝 Решение](https://github.com/Artem-Rom94/bjs-2-homeworks/tree/main/2.functions)<br>[📝 Решение, часть 2](https://github.com/Artem-Rom94/bjs-2-homeworks/blob/main/2.functions/task.js) |
 | 4 | **Расширенная работа с массивами** | [📄 Задание](https://github.com/netology-code/bjs-2-homeworks/tree/bjs-53/3.arrays) | [📝 Решение](https://github.com/Artem-Rom94/bjs-2-homeworks/tree/main/3.arrays)<br>[📝 Решение, часть 2](https://github.com/Artem-Rom94/bjs-2-homeworks/blob/main/3.arrays/task.js) |
 | 5 | **Объекты** | [📄 Задание](https://github.com/netology-code/bjs-2-homeworks/tree/bjs-53/4.objects) | [📝 Решение](https://github.com/Artem-Rom94/bjs-2-homeworks/tree/main/4.objects)<br>[📝 Решение, часть 2](https://github.com/Artem-Rom94/bjs-2-homeworks/blob/main/4.objects/task.js) |
-| 6 | **** | [📄 Задание]() | [📝 Решение]() | 
+
+---
+### **🌐 Автоматизация тестирования веб-интерфейсов**
+
+| № | Название работы | Задание | Решение |
+|:-:|:---|:---|:---|
+| 1 | **Название вашей работы** | [📄 Задание](ссылка) | [📝 Решение](ссылка) |

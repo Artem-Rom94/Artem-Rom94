@@ -65,3 +65,5 @@
 | № | Название работы | Задание | Решение |
 |:-:|:---|:---|:---|
 | 1 | **Тестирование API и Continuous Integration** | [📄 Задание](https://docs.google.com/document/d/1KO2zbCUdo9yocxItXbHrVpX3KA7-JO35BdIbvwrvwyc/edit?tab=t.0#heading=h.bnaaz150lrdg) | [📝 Решение](https://github.com/Artem-Rom94/postman-echo-tests) |
+| 2 | **Автоматизированное тестирование веб-страницы с использованием Selenium** | [📄 Задание](https://docs.google.com/document/d/1EVUGev9YjoI49QNPbOss5ueO4LK5GNjPLS6E9j-ir4s/edit?tab=t.0) | [📝 Решение](https://github.com/Artem-Rom94/login-tests) |
+| 3 | **** | [📄 Задание]() | [📝 Решение]() |

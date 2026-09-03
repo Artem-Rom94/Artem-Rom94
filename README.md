@@ -77,7 +77,7 @@
 |:-:|:---|:---|:---|
 | 1 | **Знакомство с JavaScript** | [📄 Задание](https://github.com/netology-code/aqabjs-homeworks/blob/main/First.md) | [📝 Решение](https://codepen.io/editor/Artem-Rom/pen/019f1ecb-82de-7e81-ba11-3130cb6080b3) |
 | 2 | **Основные понятия** | [📄 Задание](https://github.com/netology-code/bjs-2-homeworks/tree/bjs-53/1.base-concepts) | [📝 Решение](https://github.com/Artem-Rom94/bjs-2-homeworks/blob/main/1.base-concepts/task.js)<br>[📝 Решение, часть 2](https://artem-rom94.github.io/bjs-2-homeworks/1.base-concepts/) | 
-| 3 | **** | [📄 Задание]() | [📝 Решение]()<br>[📝 Решение, часть 2]() |
+| 3 | **Функции** | [📄 Задание](https://github.com/netology-code/bjs-2-homeworks/tree/bjs-53/2.functions) | [📝 Решение](https://github.com/Artem-Rom94/bjs-2-homeworks/tree/main/2.functions)<br>[📝 Решение, часть 2](https://github.com/Artem-Rom94/bjs-2-homeworks/blob/main/2.functions/task.js) |
 | 4 | **** | [📄 Задание]() | [📝 Решение]() |
 | 5 | **** | [📄 Задание]() | [📝 Решение]() |
 | 6 | **** | [📄 Задание]() | [📝 Решение]() | 

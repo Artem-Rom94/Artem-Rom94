@@ -70,3 +70,6 @@
 | 5 | **Настройка тестового окружения с использованием Docker** | [📄 Задание](https://docs.360.yandex.ru/view/d/nyZerXNKz644uP6t7ZF81CPegnqahzm72s0qoIz-cKg6U0ZaOHZ0YUg4dw) | [📝 Решение](https://drive.google.com/drive/folders/1fAYMpLIuVYNVnT6RIS8ZhA1qTKMxmEob) |
 | 6 | **Реализация бизнес-задачи с использованием SQL** | [📄 Задание](https://docs.google.com/document/d/1imzTXQ2b-OCVOObtBvZ-fILZ-JBEB0C6sFiR7S8eYgM/edit?tab=t.0) | [📝 Решение](https://drive.google.com/drive/folders/1Defj-hDalDVA1yIGqh2gkbujFGoSYnUr) |
 | 7 | **Домашнее задание ООП наследование, инкапсуляция и полиморфизм** | [📄 Задание](https://github.com/netology-code/py-homeworks-basic/tree/master/6.classes) | [📝 Решение](https://github.com/Artem-Rom94/dz-1) |
+
+---
+### **🧩 JavaScript для тестировщиков**

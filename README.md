@@ -67,6 +67,6 @@
 | 1 | **Тестирование API и Continuous Integration** | [📄 Задание](https://docs.google.com/document/d/1KO2zbCUdo9yocxItXbHrVpX3KA7-JO35BdIbvwrvwyc/edit?tab=t.0#heading=h.bnaaz150lrdg) | [📝 Решение](https://github.com/Artem-Rom94/postman-echo-tests) |
 | 2 | **Автоматизированное тестирование веб-страницы с использованием Selenium** | [📄 Задание](https://docs.google.com/document/d/1EVUGev9YjoI49QNPbOss5ueO4LK5GNjPLS6E9j-ir4s/edit?tab=t.0) | [📝 Решение](https://github.com/Artem-Rom94/login-tests) |
 | 4 | **Применение паттернов и BDD** | [📄 Задание](https://docs.google.com/document/d/1j0dKRZstcgSjqznqo_k-fw1u6NHSl0FDlC1plAA3ZIE/edit?tab=t.0) | [📝 Решение](https://github.com/Artem-Rom94/notes-bdd-tests) |
-| 5 | **** | [📄 Задание]() | [📝 Решение]() |
+| 5 | **Настройка тестового окружения с использованием Docker** | [📄 Задание](https://docs.360.yandex.ru/view/d/nyZerXNKz644uP6t7ZF81CPegnqahzm72s0qoIz-cKg6U0ZaOHZ0YUg4dw) | [📝 Решение](https://drive.google.com/drive/folders/1fAYMpLIuVYNVnT6RIS8ZhA1qTKMxmEob) |
 | 6 | **** | [📄 Задание]() | [📝 Решение]() |
 | 7 | **** | [📄 Задание]() | [📝 Решение]() |

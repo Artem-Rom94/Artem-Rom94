@@ -53,7 +53,7 @@
 |:-:|:---|:---|:---|
 | 1 | **Track Penetration Testing** | [📄 Задание](https://github.com/netology-code/sib-Diplom-Track-Penetration-Testing) | [📝 Диплом](https://drive.google.com/file/d/1uMgeTJ864qJ9lhOygywiYk8k2y1kWznw/view?usp=drive_link) |
 
-## Инженер по тестированию на python: расширенный курс
+## 📂 Инженер по тестированию на python: расширенный курс
 
 ### **🧪 Ручное тестирование веб-приложений**
 | № | Название работы | Задание | Решение |

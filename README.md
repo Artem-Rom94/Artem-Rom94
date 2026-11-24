@@ -86,6 +86,6 @@
 
 | № | Название работы | Задание | Решение |
 |:-:|:---|:---|:---|
-| 1 | **Использование JS в браузере. Тестирование, дебаггинг.** | [📄 Задание](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-01.md) | [📝 Решение](ссылка)<br>[📝 Решение,  часть 2](ссылка)<br>[📝 Решение,  часть 3](ссылка) |
+| 1 | **Использование JS в браузере. Тестирование, дебаггинг.** | [📄 Задание](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-01.md) | [📝 Решение](https://github.com/Artem-Rom94/debugger)<br>[📝 Решение,  часть 2](https://github.com/Artem-Rom94/debugger/pull/1)<br>[📝 Решение,  часть 3](https://github.com/Artem-Rom94/debugger/issues/2) |
 | 2 | **** | [📄 Задание](ссылка) | [📝 Решение](ссылка) |
 | 3 | **** | [📄 Задание](ссылка) | [📝 Решение](ссылка) |

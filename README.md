@@ -90,5 +90,5 @@
 | 2 | **Знакомство с платформой Node.js** | [📄 Задание](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-02.md) | [📝 Решение](https://github.com/Artem-Rom94/nodejs-debugger)<br>[📝 Решение,  часть 2](https://github.com/Artem-Rom94/nodejs-debugger/issues) |
 | 3 | **Jest. Playwright** | [📄 Задание](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-03.md) | [📝 Решение](https://github.com/Artem-Rom94/jsaqa-code/tree/main/7.3/jest)<br>[📝 Решение,  часть 2](https://github.com/Artem-Rom94/jsaqa-code/tree/main/7.3/playwright) |
 | 4 | **Puppeeter, ч.1** | [📄 Задание](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-04.md) | [📝 Решение](https://github.com/Artem-Rom94/jsaqa-code/tree/main/7.4/puppeteer) |
-| 5 | **Puppeeter, ч.2** | [📄 Задание](ссылка) | [📝 Решение](ссылка) |
+| 5 | **Puppeeter, ч.2** | [📄 Задание](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-05.md) | [📝 Решение](https://github.com/Artem-Rom94/jsaqa-code/tree/main/7.5/puppeteer-2) |
 | 6 | **Cypress, ч.1** | [📄 Задание](ссылка) | [📝 Решение](ссылка) |

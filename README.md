@@ -92,3 +92,11 @@
 | 4 | **Puppeeter, ч.1** | [📄 Задание](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-04.md) | [📝 Решение](https://github.com/Artem-Rom94/jsaqa-code/tree/main/7.4/puppeteer) |
 | 5 | **Puppeeter, ч.2** | [📄 Задание](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-05.md) | [📝 Решение](https://github.com/Artem-Rom94/jsaqa-code/tree/main/7.5/puppeteer-2) |
 | 6 | **Cypress, ч.1** | [📄 Задание](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-06.md) | [📝 Решение](https://github.com/Artem-Rom94/jsaqa-code/tree/main/7.6) |
+
+---
+### **🌐 Тестирование мобильных приложений**
+
+| № | Название работы | Задание | Решение |
+|:-:|:---|:---|:---|
+| 1 | **Ручное тестирование мобильных приложений. Введение.** | [📄 Задание](https://github.com/netology-code/mqa-homeworks/blob/mqa-video/1.1%20intro/1.1_intro.md) | [📝 Решение](https://docs.google.com/spreadsheets/d/1v_2W83ixLs6D4GujF-ktL1YPVwoIUHjM/edit?gid=588673719#gid=588673719) |
+| 2 | **** | [📄 Задание]() | [📝 Решение]() |

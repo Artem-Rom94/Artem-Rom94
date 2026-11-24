@@ -99,7 +99,7 @@
 | № | Название работы | Задание | Решение |
 |:-:|:---|:---|:---|
 | 1 | **Ручное тестирование мобильных приложений. Введение.** | [📄 Задание](https://github.com/netology-code/mqa-homeworks/blob/mqa-video/1.1%20intro/1.1_intro.md) | [📝 Решение](https://docs.google.com/spreadsheets/d/1v_2W83ixLs6D4GujF-ktL1YPVwoIUHjM/edit?gid=588673719#gid=588673719) |
-| 2 | **Тестирование iOS-приложений** | [📄 Задание]() | [📝 Решение]() |
+| 2 | **Тестирование iOS-приложений** | [📄 Задание](https://github.com/netology-code/mqa-homeworks/blob/mqa-video/1.2%20iOS/1.2.md) | [📝 Решение](https://docs.google.com/spreadsheets/d/1cqUvVPQThLHsKhvp_5fajKdRfXnW0vxn/edit?gid=1961487598#gid=1961487598) |
 | 2 | **Тестирование Android-приложений** | [📄 Задание]() | [📝 Решение]() |
 | 2 | **Виды тестирования в контексте мобильных устройств** | [📄 Задание]() | [📝 Решение]() |
 | 2 | **Выбор устройств для тестирования** | [📄 Задание]() | [📝 Решение]() |

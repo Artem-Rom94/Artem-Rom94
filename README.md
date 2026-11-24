@@ -100,11 +100,17 @@
 |:-:|:---|:---|:---|
 | 1 | **Ручное тестирование мобильных приложений. Введение.** | [📄 Задание](https://github.com/netology-code/mqa-homeworks/blob/mqa-video/1.1%20intro/1.1_intro.md) | [📝 Решение](https://docs.google.com/spreadsheets/d/1v_2W83ixLs6D4GujF-ktL1YPVwoIUHjM/edit?gid=588673719#gid=588673719) |
 | 2 | **Тестирование iOS-приложений** | [📄 Задание](https://github.com/netology-code/mqa-homeworks/blob/mqa-video/1.2%20iOS/1.2.md) | [📝 Решение](https://docs.google.com/spreadsheets/d/1cqUvVPQThLHsKhvp_5fajKdRfXnW0vxn/edit?gid=1961487598#gid=1961487598) |
-| 2 | **Тестирование Android-приложений** | [📄 Задание]() | [📝 Решение]() |
-| 2 | **Виды тестирования в контексте мобильных устройств** | [📄 Задание]() | [📝 Решение]() |
-| 2 | **Выбор устройств для тестирования** | [📄 Задание]() | [📝 Решение]() |
-| 2 | **Инструменты для ручного тестирования мобильных приложений** | [📄 Задание]() | [📝 Решение]() |
-| 2 | **Снифферинг. Настройка и возможности** | [📄 Задание]() | [📝 Решение]() |
-| 2 | **Автоматизация тестирования мобильных приложений** | [📄 Задание]() | [📝 Решение]() |
-| 2 | **UIAutomator. Автоматизация тестирования Android** | [📄 Задание]() | [📝 Решение]() |
+| 2 | **Тестирование Android-приложений** | [📄 Задание](https://github.com/netology-code/mqa-homeworks/blob/mqa-video/1.3%20Android/1.3.md) | [📝 Решение](https://docs.google.com/spreadsheets/d/1rM1uvNDxFteissqSd8CJylwkVvF6_dXq/edit?gid=155063874#gid=155063874) |
+| 2 | **Виды тестирования в контексте мобильных устройств** | [📄 Задание](https://github.com/netology-code/mqa-homeworks/blob/mqa-video/1.6%20process/Readme.md) | [📝 Решение](https://docs.google.com/spreadsheets/d/1CugB16VEf_i456GJlZuSzAu3yeiyiJBN/edit?gid=1571552985#gid=1571552985) |
+| 2 | **Выбор устройств для тестирования** | [📄 Задание](https://github.com/netology-code/mqa-homeworks/blob/mqa-video/1.5%20devices/1.5_devices.md) | [📝 Решение](https://docs.google.com/spreadsheets/d/1cEfk9jHyJ5K3quKKny6xGnptBfz3_NLo/edit?gid=1875139776#gid=1875139776) |
+| 2 | **Инструменты для ручного тестирования мобильных приложений** | [📄 Задание](https://github.com/netology-code/mqa-homeworks/blob/mqa-video/1.4%20instruments/Update%201.4.md) | [📝 Решение](https://docs.google.com/spreadsheets/d/1O87QLCBAjpet7drRnlIzrIhAeOk_QA5w/edit?gid=764116602#gid=764116602) |
+| 2 | **Снифферинг. Настройка и возможности** | [📄 Задание](https://github.com/netology-code/mqa-homeworks/tree/mqa-video/1.5%20Sniffer#readme) | [📝 Решение](https://docs.google.com/spreadsheets/d/1RTU55pJOgPluSKWUIyLhdAb9TJo8WVQk/edit?gid=1017420151#gid=1017420151) |
+| 2 | **Автоматизация тестирования мобильных приложений** | [📄 Задание](https://github.com/netology-code/mqa-homeworks/blob/main/2.1%20auto/2.1.md) | [📝 Решение](https://github.com/Artem-Rom94/mqa-homework-2.1/blob/mqa-video/2.1%20auto/hw_app/app/src/androidTest/java/com/netology/tabbedapplication/TabsTest.java) |
+| 2 | **UIAutomator. Автоматизация тестирования Android** | [📄 Задание](https://github.com/netology-code/mqa-homeworks/blob/main/2.2%20UI%20Automator/2.2.md) | [📝 Решение](https://github.com/Artem-Rom94/mqa-homework-2.2) |
 
+---
+### **🌐 Тестирование производительности**
+
+| № | Название работы | Задание | Решение |
+|:-:|:---|:---|:---|
+| 1 | **Введение в тестирование производительности** | [📄 Задание](https://github.com/netology-code/loadqa-homeworks/blob/main/1.Introduction%20to%20load%20testing/homework_lecture1.md) | [📝 Решение](https://docs.google.com/document/d/1Aoyq9HtjY9QzjNw0CelOv2lcE7qy-Xi7/edit#heading=h.tqr4i467p6d8) |

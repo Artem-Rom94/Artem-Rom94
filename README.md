@@ -91,4 +91,4 @@
 | 3 | **Jest. Playwright** | [📄 Задание](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-03.md) | [📝 Решение](https://github.com/Artem-Rom94/jsaqa-code/tree/main/7.3/jest)<br>[📝 Решение,  часть 2](https://github.com/Artem-Rom94/jsaqa-code/tree/main/7.3/playwright) |
 | 4 | **Puppeeter, ч.1** | [📄 Задание](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-04.md) | [📝 Решение](https://github.com/Artem-Rom94/jsaqa-code/tree/main/7.4/puppeteer) |
 | 5 | **Puppeeter, ч.2** | [📄 Задание](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-05.md) | [📝 Решение](https://github.com/Artem-Rom94/jsaqa-code/tree/main/7.5/puppeteer-2) |
-| 6 | **Cypress, ч.1** | [📄 Задание](https://netology.ru/profile/program/jsaqa-130/lessons/642137/lesson_items/3450134) | [📝 Решение](https://github.com/Artem-Rom94/jsaqa-code/tree/main/7.6) |
+| 6 | **Cypress, ч.1** | [📄 Задание](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-06.md) | [📝 Решение](https://github.com/Artem-Rom94/jsaqa-code/tree/main/7.6) |

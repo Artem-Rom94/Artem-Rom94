@@ -47,6 +47,12 @@
 ---
 
 ## 📂 Мои работы
+
+### **🤖 Дипломная работа по профессии Специалист по информационной безопасности**
+| № | Название работы | Задание | Решение |
+|:-:|:---|:---|:---|
+**Track Penetration Testing** | [📄 Задание](https://github.com/netology-code/sib-Diplom-Track-Penetration-Testing) | [📝 Диплом](https://drive.google.com/file/d/1uMgeTJ864qJ9lhOygywiYk8k2y1kWznw/view?usp=drive_link) |
+
 ### **🧪 Ручное тестирование веб-приложений**
 | № | Название работы | Задание | Решение |
 |:-:|:---|:---|:---|

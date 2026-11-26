@@ -122,3 +122,4 @@
 | № | Название работы | Задание | Решение |
 |:-:|:---|:---|:---|
 | 1 | **Введение в тестирование производительности** | [📄 Задание](https://github.com/netology-code/loadqa-homeworks/blob/main/1.Introduction%20to%20load%20testing/homework_lecture1.md) | [📝 Решение](https://docs.google.com/document/d/1Aoyq9HtjY9QzjNw0CelOv2lcE7qy-Xi7/edit#heading=h.tqr4i467p6d8) |
+| 2 | **Подготовка стенда нагрузочного тестирования** | [📄 Задание](https://github.com/netology-code/loadqa-homeworks/blob/main/2.Load%20environment/homework_lecture2.md) | [📝 Решение](https://github.com/Artem-Rom94/load-testing-stand) |
